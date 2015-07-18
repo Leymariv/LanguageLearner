@@ -1,0 +1,123 @@
+svara/answer/0/0/� %
+alla/all/0/0/� %
+då/alors/0/0/� %
+alternativ/choice/0/0/� %
+är/être/0/0/� %
+åka-åker-åkte-åkt/aller/0/0/� %
+äpple ett/apple/0/0/� %
+år/year/0/0/� %
+äta-äter-åt-ätit/eat/0/0/� %
+att/that/0/0/� %
+apotek ett/pharmacie/0/0/� %
+även/aussi/0/0/� %
+arbeta/travailler/0/0/� %
+äldre/older/0/0/� %
+äldst/oldest/0/0/� %
+annan/other/0/0/� %
+ärlig/honnête/0/0/� %
+äventirlig/aventureux/0/0/� %
+ångra sig/se repentir/0/0/� %
+altså/ainsi/0/0/� %
+allra/very/0/0/� %
+annars/otherwise/0/0/� %
+anmäla sig/register/0/0/� %
+ansiktet/visage/0/0/� %
+även om/bien que/0/0/� %
+buss en/bus/0/0/� %
+barn/child/0/0/� %
+början/début/0/0/� %
+bo-bor-bodde-bott/vivre/0/0/� %
+bror/brother/0/0/� %
+bord ett/bureau/0/0/� %
+berätta/raconter/0/0/� %
+bil en/car/0/0/� %
+bio en/cinema/0/0/� %
+börja/commencer/0/0/� %
+bli-blir-blev-blivit/devenir/0/0/� %
+både/both/0/0/� %
+betalar/pay/0/0/� %
+bäddar säggen/faire son lit/0/0/� %
+bland/among/0/0/� %
+bestämma-bestämmer-bestämde-bestämt/determine/0/0/� %
+bekväm/confortable/0/0/� %
+banta/maigrir/0/0/� %
+bekymra sig/se preoccuper/0/0/� %
+bakom/behind/0/0/� %
+beroende/independant/0/0/� %
+bilda/educate/0/0/� %
+bland/among/0/0/� %
+bred/wide/0/0/� %
+bör-borde-bort/should/0/0/� %
+bry sig-bryr-brydde-brytte/worry/0/0/� %
+kaffe/coffee/0/0/� %
+läkare en/doctor/0/0/� %
+tendläkare en/dentist/0/0/� %
+dotter/daughter/0/0/� %
+vetenskap en/science/0/0/� %
+detsamma/de meme/0/0/� %
+där/over there/0/0/� %
+dataspel en/video game/0/0/� %
+dröm-drömmer-drömde-drömt/dream/0/0/� %
+duschar/doucher/0/0/� %
+dålig/boring-bad/0/0/� %
+dyr/expensive/0/0/� %
+då/alors/0/0/� %
+dö-dör-dog-dött/die/0/0/� %
+död en/death/0/0/� %
+döda/kill/0/0/� %
+disckar/wash the dishes/0/0/� %
+delar ut/distribute/0/0/� %
+därför att/because of/0/0/� %
+djur en/animal/0/0/� %
+en del/a game/0/0/� %
+dum/silly/0/0/� %
+efter/after/0/0/� %
+efternamn/family name/0/0/� %
+ensam/alone/0/0/� %
+eller/or/1/1/100 %
+eld en/fire/0/0/� %
+enligt/according to/0/0/� %
+egen/own/0/0/� %
+effektiv/efficient/0/0/� %
+efteråt/afterward/0/0/� %
+enkel/simple/0/0/� %
+envis/rude/0/0/� %
+föda-mat/food/0/0/� %
+flickvän/girlfriend/0/0/� %
+för/for/0/0/� %
+fru en/woman/0/0/� %
+familj en/family/0/0/� %
+fel ett/mistake/0/0/� %
+företag ett/company/0/0/� %
+född/naître/0/0/� %
+frukost en/breakfast/0/0/� %
+fika/have tea/0/0/� %
+förnamn ett/first name/0/0/� %
+fritiden/free time/0/0/� %
+far/father/0/0/� %
+frukt en/frut/0/0/� %
+frimärke ett/stamp/0/0/� %
+flicka en/girl/0/0/� %
+födelsedag/birthday/0/0/� %
+få-får-fick-fått/get/0/0/� %
+flera/several/0/0/� %
+fabrik en/factory/0/0/� %
+flytande/fluent/0/0/� %
+förälder/parents/0/0/� %
+förre/less/0/0/� %
+akta sig för/take care about/0/0/� %
+brevbärare/postman/0/0/� %
+datavetenskap/computer science/0/0/� %
+fotografi ett/photograph/0/0/� %
+klass en/grade/0/0/� %
+dricka-dricker-drak-druckit/drink/0/0/� %
+brev ett/lettre/0/0/� %
+billig/cheap/0/0/� %
+fotograf/photographe/0/0/� %
+få/few/0/0/� %
+andra/opposite/0/0/� %
+älskar/aimer/0/0/� %
+annorlunda/different/0/0/� %
+besöka-besöker-besökte-besökt/visiter/0/0/� %
+därför/hence/0/0/� %
+forska/do research/0/0/� %
